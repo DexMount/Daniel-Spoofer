@@ -1,5 +1,5 @@
 @echo off
-title Daniel spoofer
+title KZNspoofer
 color 6
 echo spoofing...
 color 4
